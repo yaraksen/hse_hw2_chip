@@ -25,23 +25,18 @@
 ENCFF002AAK | ENCFF002AAM | ENCFF000VCW
 --- | --- | ---
 ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/basic_ENCFF002AAK.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/basic_ENCFF002AAM.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/basic_ENCFF000VCW.png)
-
 ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perseq_quality_ENCFF002AAK.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perseq_quality_ENCFF002AAM.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perseq_quality_ENCFF000VCW.png)
-
 ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perbase_quality_ENCFF002AAK.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perbase_quality_ENCFF002AAM.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perbase_quality_ENCFF000VCW.png)
-
 ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perbase_content_ENCFF002AAK.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perbase_content_ENCFF002AAM.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/perbase_content_ENCFF000VCW.png)
-
 ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/per_seq_gc_content_ENCFF002AAK.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/per_seq_gc_content_ENCFF002AAM.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/per_seq_gc_content_ENCFF000VCW.png)
-
 ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/per_base_n_content_ENCFF002AAK.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/per_base_n_content_ENCFF002AAM.png) | ![image](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/per_base_n_content_ENCFF000VCW.png)
 
 ## Диаграммы Эйлера-Венна
 
 ### Пересечение пиков 1 реплики и ENCODE
-![Intervene_venn1](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn.pdf) | ![Intervene_venn2](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn1.pdf)
+![Intervene_venn1](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn.png) | ![Intervene_venn2](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn1.png)
 
 ### Пересечение пиков 2 реплики и ENCODE
-![Intervene_venn3](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn2.pdf) | ![Intervene_venn4](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn3.pdf)
+![Intervene_venn3](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn2.png) | ![Intervene_venn4](https://github.com/yaraksen/hse_hw2_chip/blob/main/data/images/Intervene_venn3.png)
 
 **Количество пересечений получилось таким низким, так как выравнивали риды на одну хромосому, составляющую небольшую часть человеческого генома. В ENCODE пиков намного больше, потому что они составлены для всех хромосом.**
